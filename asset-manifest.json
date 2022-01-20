@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31360c42.css",
+    "main.js": "/static/js/main.a67145a7.js",
+    "static/js/787.edd59a96.chunk.js": "/static/js/787.edd59a96.chunk.js",
+    "static/media/AvenirNextW05HeavyItalic.woff": "/static/media/AvenirNextW05HeavyItalic.e51a4705246693c57024.woff",
+    "static/media/avenirnextcyr-heavy.woff": "/static/media/avenirnextcyr-heavy.d8a3b2a608f8744d6e80.woff",
+    "static/media/AnyConv.com__Metropolis-MediumItalic.woff": "/static/media/AnyConv.com__Metropolis-MediumItalic.0443aaf535044e755b1f.woff",
+    "static/media/AnyConv.com__Metropolis-BoldItalic.woff": "/static/media/AnyConv.com__Metropolis-BoldItalic.130ad93846c8f83a9fc5.woff",
+    "static/media/AnyConv.com__Metropolis-SemiBoldItalic.woff": "/static/media/AnyConv.com__Metropolis-SemiBoldItalic.73378e49e88dbd32d689.woff",
+    "static/media/AnyConv.com__Metropolis-RegularItalic.woff": "/static/media/AnyConv.com__Metropolis-RegularItalic.916cd57e0f30fbbe78b3.woff",
+    "static/media/AnyConv.com__Metropolis-Bold.woff": "/static/media/AnyConv.com__Metropolis-Bold.3b19a41f17136dd53560.woff",
+    "static/media/AnyConv.com__Metropolis-Medium.woff": "/static/media/AnyConv.com__Metropolis-Medium.746a7d2783630c606ea0.woff",
+    "static/media/AnyConv.com__Metropolis-SemiBold.woff": "/static/media/AnyConv.com__Metropolis-SemiBold.400866a7058ad8a74ad8.woff",
+    "static/media/AnyConv.com__Metropolis-Regular.woff": "/static/media/AnyConv.com__Metropolis-Regular.2088a6d54e2e1738aa22.woff",
+    "index.html": "/index.html",
+    "main.31360c42.css.map": "/static/css/main.31360c42.css.map",
+    "main.a67145a7.js.map": "/static/js/main.a67145a7.js.map",
+    "787.edd59a96.chunk.js.map": "/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31360c42.css",
+    "static/js/main.a67145a7.js"
+  ]
+}
